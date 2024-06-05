@@ -1,0 +1,41 @@
+body {
+    background-color: #EFDEFF;
+}
+
+.carrossel {
+    width: 20;
+}
+
+#logonavbar {
+    width: 130px;
+    padding: 0px;
+}
+
+.navbar-nav {
+     margin: 1px;
+}
+
+.nav-link {
+      
+     margin: 0;
+     padding: 10px;
+}
+
+.navbar {
+    background-color: #D9BCF6 ;
+}
+
+.carousel-caption {
+      width: 1000px;
+      height: 700px;
+      padding-left: 5000px;
+      
+}
+
+.carousel-item {
+    width: 3000px;
+    height: 700px;
+    padding-top: 50px;
+    padding-left: 250px;
+
+}
